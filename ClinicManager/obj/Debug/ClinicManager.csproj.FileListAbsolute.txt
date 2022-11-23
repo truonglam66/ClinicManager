@@ -1,0 +1,166 @@
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\ClinicManager.dll.config
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\ClinicManager.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\ClinicManager.pdb
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\csc.exe
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\csc.exe.config
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\csc.rsp
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\csi.exe
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\csi.exe.config
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\csi.rsp
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.AppContext.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Collections.Immutable.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Console.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Globalization.Calendars.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.IO.Compression.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.IO.FileSystem.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Net.Http.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Net.Sockets.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Reflection.Metadata.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.ValueTuple.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Xml.XPath.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\vbc.exe
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\vbc.exe.config
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\vbc.rsp
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\VBCSCompiler.exe
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\roslyn\VBCSCompiler.exe.config
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\Antlr3.Runtime.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\EntityFramework.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\EntityFramework.SqlServer.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\Microsoft.Web.Infrastructure.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\Newtonsoft.Json.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\System.Web.Helpers.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\System.Web.Mvc.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\System.Web.Optimization.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\System.Web.Razor.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\System.Web.WebPages.Deployment.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\System.Web.WebPages.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\System.Web.WebPages.Razor.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\WebGrease.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\EntityFramework.xml
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\EntityFramework.SqlServer.xml
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\System.Web.Helpers.xml
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\System.Web.Mvc.xml
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\System.Web.Optimization.xml
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\System.Web.Razor.xml
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\System.Web.WebPages.xml
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\System.Web.WebPages.Deployment.xml
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\System.Web.WebPages.Razor.xml
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\Newtonsoft.Json.xml
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\Antlr3.Runtime.pdb
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.csproj.CoreCompileInputs.cache
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.csproj.CopyComplete
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.dll
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.pdb
+D:\DATA\UIT\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.csprojAssemblyReference.cache
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\ClinicManager.dll.config
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\ClinicManager.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\ClinicManager.pdb
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\csc.exe
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\csc.exe.config
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\csc.rsp
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\csi.exe
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\csi.exe.config
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\csi.rsp
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.AppContext.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Collections.Immutable.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Console.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Globalization.Calendars.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.IO.Compression.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.IO.FileSystem.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Net.Http.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Net.Sockets.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.ValueTuple.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Xml.XPath.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\vbc.exe
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\vbc.exe.config
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\vbc.rsp
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\VBCSCompiler.exe
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\roslyn\VBCSCompiler.exe.config
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\Antlr3.Runtime.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\EntityFramework.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\EntityFramework.SqlServer.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\Microsoft.Web.Infrastructure.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\Newtonsoft.Json.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\System.Web.Helpers.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\System.Web.Mvc.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\System.Web.Optimization.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\System.Web.Razor.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\System.Web.WebPages.Deployment.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\System.Web.WebPages.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\System.Web.WebPages.Razor.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\WebGrease.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\EntityFramework.xml
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\EntityFramework.SqlServer.xml
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\System.Web.Helpers.xml
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\System.Web.Mvc.xml
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\System.Web.Optimization.xml
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\System.Web.Razor.xml
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\System.Web.WebPages.xml
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\System.Web.WebPages.Deployment.xml
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\System.Web.WebPages.Razor.xml
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\Newtonsoft.Json.xml
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\Antlr3.Runtime.pdb
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\obj\Debug\ClinicManager.csproj.AssemblyReference.cache
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\obj\Debug\ClinicManager.csproj.CoreCompileInputs.cache
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\obj\Debug\ClinicManager.csproj.CopyComplete
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\obj\Debug\ClinicManager.dll
+D:\MyProject\Source Code-20221003T123443Z-001\Source Code\ClinicManager\obj\Debug\ClinicManager.pdb

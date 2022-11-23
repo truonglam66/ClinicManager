@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ClinicManagerModelStoreContainer" CdmEntityContainer="ClinicManagerEntities">
+    <EntitySetMapping Name="Accounts">
+      <EntityTypeMapping TypeName="ClinicManagerModel.Account">
+        <MappingFragment StoreEntitySet="Account">
+          <ScalarProperty Name="Role" ColumnName="Role" />
+          <ScalarProperty Name="isActive" ColumnName="isActive" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="IdentityCardNumber" ColumnName="IdentityCardNumber" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="IdUser" ColumnName="IdUser" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Constants">
+      <EntityTypeMapping TypeName="ClinicManagerModel.Constant">
+        <MappingFragment StoreEntitySet="Constant">
+          <ScalarProperty Name="Value" ColumnName="Value" />
+          <ScalarProperty Name="Properties" ColumnName="Properties" />
+          <ScalarProperty Name="IdConstant" ColumnName="IdConstant" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HealthRecords">
+      <EntityTypeMapping TypeName="ClinicManagerModel.HealthRecord">
+        <MappingFragment StoreEntitySet="HealthRecord">
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="missCall" ColumnName="missCall" />
+          <ScalarProperty Name="IndexOfDay" ColumnName="IndexOfDay" />
+          <ScalarProperty Name="Diagnosis" ColumnName="Diagnosis" />
+          <ScalarProperty Name="Symptom" ColumnName="Symptom" />
+          <ScalarProperty Name="IdPatient" ColumnName="IdPatient" />
+          <ScalarProperty Name="UpdateByUser" ColumnName="UpdateByUser" />
+          <ScalarProperty Name="IsReExamination" ColumnName="IsReExamination" />
+          <ScalarProperty Name="ExaminationFee" ColumnName="ExaminationFee" />
+          <ScalarProperty Name="CreateByUser" ColumnName="CreateByUser" />
+          <ScalarProperty Name="CreateAt" ColumnName="CreateAt" />
+          <ScalarProperty Name="IdHealthRecord" ColumnName="IdHealthRecord" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Patients">
+      <EntityTypeMapping TypeName="ClinicManagerModel.Patient">
+        <MappingFragment StoreEntitySet="Patient">
+          <ScalarProperty Name="CreateAt" ColumnName="CreateAt" />
+          <ScalarProperty Name="IdentityCardNumber" ColumnName="IdentityCardNumber" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="IdPatient" ColumnName="IdPatient" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Prescriptions">
+      <EntityTypeMapping TypeName="ClinicManagerModel.Prescription">
+        <MappingFragment StoreEntitySet="Prescription">
+          <ScalarProperty Name="UserManual" ColumnName="UserManual" />
+          <ScalarProperty Name="Count" ColumnName="Count" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+          <ScalarProperty Name="MedicineName" ColumnName="MedicineName" />
+          <ScalarProperty Name="IdHealthRecord" ColumnName="IdHealthRecord" />
+          <ScalarProperty Name="IdPrecription" ColumnName="IdPrecription" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ReExaminations">
+      <EntityTypeMapping TypeName="ClinicManagerModel.ReExamination">
+        <MappingFragment StoreEntitySet="ReExamination">
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ReExaminationAt" ColumnName="ReExaminationAt" />
+          <ScalarProperty Name="IdHealthRecord" ColumnName="IdHealthRecord" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

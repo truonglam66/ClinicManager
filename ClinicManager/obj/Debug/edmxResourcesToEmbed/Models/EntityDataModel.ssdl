@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ClinicManagerModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="IdUser" />
+    </Key>
+    <Property Name="IdUser" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Username" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="DateOfBirth" Type="datetime" Nullable="false" />
+    <Property Name="Gender" Type="bit" Nullable="false" />
+    <Property Name="IdentityCardNumber" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="Phone" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="isActive" Type="bit" />
+    <Property Name="Role" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Constant">
+    <Key>
+      <PropertyRef Name="IdConstant" />
+    </Key>
+    <Property Name="IdConstant" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Properties" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="Value" Type="float" />
+  </EntityType>
+  <EntityType Name="HealthRecord">
+    <Key>
+      <PropertyRef Name="IdHealthRecord" />
+    </Key>
+    <Property Name="IdHealthRecord" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CreateAt" Type="datetime" Nullable="false" />
+    <Property Name="CreateByUser" Type="int" Nullable="false" />
+    <Property Name="ExaminationFee" Type="float" Nullable="false" />
+    <Property Name="IsReExamination" Type="bit" />
+    <Property Name="UpdateByUser" Type="int" />
+    <Property Name="IdPatient" Type="int" Nullable="false" />
+    <Property Name="Symptom" Type="nvarchar" MaxLength="200" />
+    <Property Name="Diagnosis" Type="nvarchar" MaxLength="200" />
+    <Property Name="IndexOfDay" Type="int" />
+    <Property Name="missCall" Type="bit" />
+    <Property Name="Status" Type="bit" />
+  </EntityType>
+  <EntityType Name="Patient">
+    <Key>
+      <PropertyRef Name="IdPatient" />
+    </Key>
+    <Property Name="IdPatient" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="DateOfBirth" Type="datetime" Nullable="false" />
+    <Property Name="Gender" Type="bit" Nullable="false" />
+    <Property Name="IdentityCardNumber" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="CreateAt" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Prescription">
+    <Key>
+      <PropertyRef Name="IdPrecription" />
+    </Key>
+    <Property Name="IdPrecription" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdHealthRecord" Type="int" Nullable="false" />
+    <Property Name="MedicineName" Type="nvarchar" MaxLength="200" />
+    <Property Name="Unit" Type="nvarchar" MaxLength="200" />
+    <Property Name="Count" Type="int" />
+    <Property Name="UserManual" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="ReExamination">
+    <Key>
+      <PropertyRef Name="IdHealthRecord" />
+    </Key>
+    <Property Name="IdHealthRecord" Type="int" Nullable="false" />
+    <Property Name="ReExaminationAt" Type="datetime" />
+    <Property Name="Status" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="ClinicManagerModelStoreContainer">
+    <EntitySet Name="Account" EntityType="Self.Account" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Constant" EntityType="Self.Constant" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HealthRecord" EntityType="Self.HealthRecord" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Patient" EntityType="Self.Patient" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Prescription" EntityType="Self.Prescription" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ReExamination" EntityType="Self.ReExamination" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
