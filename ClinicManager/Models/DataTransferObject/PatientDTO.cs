@@ -51,8 +51,9 @@ namespace ClinicManager.Models.DataTransferObject
 
         public string GetPatientNameById(int id)
         {
-            //return DataProvider.Instant.DB.Patients.Where(x => x.IdPatient == id).First().Name;
-            return "0";
+            if (id < 4)
+                return "hiep";
+            return DataProvider.Instant.DB.Patients.Where(x => x.IdPatient == id).First().Name;
         }
 
         public Patient GetPatientByIdentityCardNumber(string number)

@@ -26,8 +26,8 @@ namespace ClinicManager.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-G6AAJ7V\\SQLEXPRESS;Initial Catalog=ClinicManager;User ID=sa;P" +
-            "assword=truong160699")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-G6AAJ7V\\SQLEXPRESS;Initial Catalog=ClinicManagerDemo;Persist " +
+            "Security Info=True;User ID=sa;Password=truong160699")]
         public string ChuoiKN {
             get {
                 return ((string)(this["ChuoiKN"]));
